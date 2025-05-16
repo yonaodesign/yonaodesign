@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I’m Jonas 👋
 
-<!--
-**yonaodesign/yonaodesign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠 Full-stack engineer with product instincts and a weird career arc  
+🎌 Ex-marketing manager turned sole developer at a Japanese company  
+🎓 Now building education systems @e1133  
+🎭 I draw, code, noodle on startup ideas, and read too many audiobooks
 
-Here are some ideas to get you started:
+## ⚡ Tech
+- TypeScript · React · Node.js · Supabase · PostgreSQL
+- I care about: good UX, lean delivery, and solving real problems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Work style
+- I like small teams, real ownership, and async-first culture  
+- I ask annoying questions like “does this actually help the user?”  
+- My favorite commits fix both bugs *and* sentences
+
+## 📬 Let's talk
+→ [LinkedIn](https://linkedin.com/in/jonasvolny)  
+→ [My site](https://jonasvolny.com)
