@@ -1,9 +1,7 @@
-Hi, I’m Jonas 👋
-
-### 🪴 Bio
+### 🌿 Bio
 - Full-stack engineer with product instincts
 - Ex-marketing manager turned sole developer at a Japanese company
-- Now building education systems @e1133
+- Currently building education systems @e1133
 - I draw, read too many audiobooks, and build weird things in my free time
 
 ### ⚡ I Care About
