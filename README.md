@@ -14,5 +14,6 @@ Hi, I’m Jonas 👋
 
 ### 📬 Let's talk
 - Follow me her or at
+
 → [LinkedIn](https://linkedin.com/in/jonasvolny)  
 → [My site](https://jonasvolny.com)
