@@ -1,11 +1,10 @@
 ### 🌿 Bio
 - Full-stack engineer with product instincts
-- Ex-marketing manager turned sole developer at a Japanese company
-- Currently building education systems @e1133
-- I draw, read too many audiobooks, and build weird things in my free time
+- Cross-culture
+- Cross-domain
 
 ### ⚡ I Care About
-- Good UX, lean delivery, and solving real problems
+- Good UX, maintainable code, and solving real problems
 
 ### 🎯 Work style
 - I like small teams, real ownership, and async-first culture  
